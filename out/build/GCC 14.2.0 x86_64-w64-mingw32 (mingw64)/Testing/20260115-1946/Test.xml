@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20260115-1946-Experimental"
+	Name="BilledoLaptop"
+	Generator="ctest-4.2.1"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.50.35721.0"
+	OSName="Windows"
+	Hostname="BilledoLaptop"
+	OSRelease="10.0.22631"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="20"
+	NumberOfPhysicalCPU="14"
+	TotalVirtualMemory="25293"
+	TotalPhysicalMemory="16077"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2600"
+	>
+	<Testing>
+		<StartDateTime>Jan 18 13:25 Pacific Standard Time</StartDateTime>
+		<StartTestTime>1768771526</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 18 13:25 Pacific Standard Time</EndDateTime>
+		<EndTestTime>1768771526</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

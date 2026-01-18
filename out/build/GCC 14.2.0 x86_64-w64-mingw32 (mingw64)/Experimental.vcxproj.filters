@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\justa\OneDrive\Desktop\imgui-starterNB\out\build\GCC 14.2.0 x86_64-w64-mingw32 (mingw64)\CMakeFiles\be71510a763d49534d9da19a9e65ad02\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\justa\OneDrive\Desktop\imgui-starterNB\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\justa\OneDrive\Desktop\imgui-starterNB\out\build\GCC 14.2.0 x86_64-w64-mingw32 (mingw64)\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B4A53D2C-2950-3F72-AA80-48B1F3781945}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

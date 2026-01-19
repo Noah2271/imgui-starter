@@ -114,7 +114,6 @@ namespace ClassGame {
 
         }
 
-
         //
         // end turn is called by the game code at the end of each turn
         // this is where we check for a winner

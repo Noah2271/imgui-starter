@@ -4,6 +4,10 @@
 #include <cstring>
 #include <stdio.h>
 
+//
+// Logger class definition
+// no other classes were changed in this project
+//
 class Logger
 {
     public:
